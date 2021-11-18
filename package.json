@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-demo",
+  "version": "0.0.1",
+  "description": "Site de démonstration VuePress",
+  "main": "index.js",
+  "authors": {
+    "name": "Cédric",
+    "email": "admin@boostemaboite.fr"
+  },
+  "repository": "https://github.com/cbontems/vuepress-demo/vuepress-demo",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
